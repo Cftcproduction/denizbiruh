@@ -4535,3 +4535,6 @@ header .mobile-menu {
 }
 
 /*# sourceMappingURL=styles.css.map */
+.left-sidebar .image .signature {
+  display: none !important;
+}
